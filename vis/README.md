@@ -7,7 +7,7 @@ Il grafico è stto migliorato sotto diversi aspetti:
 ![image](https://github.com/FrancescoZanni/MLPNS_FZanni/blob/main/vis/E0remade.png)
 
 
-Il problema principale era l'utilizzo degli elementi grafici, le modifiche sono le seguenti
+Il problema principale era nel'utilizzo degli elementi grafici, le modifiche sono le seguenti
 - Non era presente corrispondenza di colori tra i punti relativi alla simulazione e la linea di fit
 - Non c'era continuità di scelta all'interno delle linee di fit (una risultava trattetggiata al contrario di tutte le altre)
 - L'utilizzo di un plot con le barre di errore per i dati simulati era superfluo e risultava ambiguo: l'errore, relativo all'asse verticale, è troppo piccolo per la scala del grafico: di conseguenza la barra di errore non è visibile, se ne osservano soltanto i limitatori superiore e inferiore, che sembrano coincidere e fanno supporre che l'errore sia al contrario sull'asse x. Questo elemento è quindi fonte di ambiguità ed è stato rimosso in quanto non porta informazioni rilevanti
