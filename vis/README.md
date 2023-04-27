@@ -4,7 +4,7 @@ Per dare contesto la relazione tratta di una stima dell'energia del livello fond
 ![image](https://github.com/FrancescoZanni/MLPNS_FZanni/blob/main/vis/E0DW.PNG)
 
 Il grafico è stato migliorato sotto diversi aspetti: 
-![image](https://github.com/FrancescoZanni/MLPNS_FZanni/blob/main/vis/E0remade.png)
+![image](https://github.com/FrancescoZanni/MLPNS_FZanni/blob/main/vis/E0v2.png)
 
 
 Il problema principale era nel'utilizzo degli elementi grafici, le modifiche sono le seguenti
