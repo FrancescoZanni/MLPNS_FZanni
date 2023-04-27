@@ -16,7 +16,11 @@ Il problema principale era l'utilizzo degli elementi grafici, le modifiche sono 
 - È stata inserita una didascalia, che chiarisce il contesto e le informazioni da trarre dal grafico
 - Sono stati modificati i tick sull'asse y, essendo il calcolo dell'intercetta l'obiettivo del fit si inserisce come tick il risultato ottenuto per ciascun fit 
 - È stato scelto un set di colori che fosse compatibile con ogni tipo di daltonismo
-- È stata aumentata la trasparenza delle linee di fit, in questo modo si dà maggiore importanza visiva ai punti ottenuti tramite simulazione.
+- È stata aumentata la trasparenza delle linee di fit, in questo modo si dà maggiore importanza visiva ai punti ottenuti tramite simulazione.  
+
+
+
+(Il codice è quello utilizzato per ottenere il grafico migliorato, non so perchè ma gitHub non mostra il risultato, che tuttavia è esattamente quello mostrato in questo README)
 
 
 
