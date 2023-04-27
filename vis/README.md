@@ -3,7 +3,7 @@ Per dare contesto la relazione tratta di una stima dell'energia del livello fond
 
 ![image](https://github.com/FrancescoZanni/MLPNS_FZanni/blob/main/vis/E0DW.PNG)
 
-Il grafico è stto migliorato sotto diversi aspetti: 
+Il grafico è stato migliorato sotto diversi aspetti: 
 ![image](https://github.com/FrancescoZanni/MLPNS_FZanni/blob/main/vis/E0remade.png)
 
 
